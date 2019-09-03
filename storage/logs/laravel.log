@@ -1,0 +1,24 @@
+[2019-08-02 21:27:35] local.ERROR: Illuminate\Routing\Router::loadRoutes(): Failed opening required 'C:\Users\asus\tundevis\routes/web.php' (include_path='C:\Travail\php\PEAR') {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Illuminate\\Routing\\Router::loadRoutes(): Failed opening required 'C:\\Users\\asus\\tundevis\outes/web.php' (include_path='C:\\Travail\\php\\PEAR') at C:\\Users\\asus\\tundevis\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php:393)
+[stacktrace]
+#0 {main}
+"} 
+[2019-08-02 21:29:46] local.ERROR: Illuminate\Routing\Router::loadRoutes(): Failed opening required 'C:\Users\asus\tundevis\routes/web.php' (include_path='C:\Travail\php\PEAR') {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Illuminate\\Routing\\Router::loadRoutes(): Failed opening required 'C:\\Users\\asus\\tundevis\outes/web.php' (include_path='C:\\Travail\\php\\PEAR') at C:\\Users\\asus\\tundevis\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php:393)
+[stacktrace]
+#0 {main}
+"} 
+[2019-08-02 21:31:29] local.ERROR: Illuminate\Routing\Router::loadRoutes(): Failed opening required 'C:\Users\asus\tundevis\routes/web.php' (include_path='C:\Travail\php\PEAR') {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Illuminate\\Routing\\Router::loadRoutes(): Failed opening required 'C:\\Users\\asus\\tundevis\outes/web.php' (include_path='C:\\Travail\\php\\PEAR') at C:\\Users\\asus\\tundevis\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php:393)
+[stacktrace]
+#0 {main}
+"} 
+[2019-08-02 21:38:49] local.ERROR: Illuminate\Routing\Router::loadRoutes(): Failed opening required 'C:\Users\asus\tundevis\routes/web.php' (include_path='C:\Travail\php\PEAR') {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Illuminate\\Routing\\Router::loadRoutes(): Failed opening required 'C:\\Users\\asus\\tundevis\outes/web.php' (include_path='C:\\Travail\\php\\PEAR') at C:\\Users\\asus\\tundevis\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php:393)
+[stacktrace]
+#0 {main}
+"} 
+[2019-08-02 22:05:44] local.ERROR: Illuminate\Routing\Router::loadRoutes(): Failed opening required 'C:\Users\asus\tundevis\routes/web.php' (include_path='C:\Travail\php\PEAR') {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Illuminate\\Routing\\Router::loadRoutes(): Failed opening required 'C:\\Users\\asus\\tundevis\outes/web.php' (include_path='C:\\Travail\\php\\PEAR') at C:\\Users\\asus\\tundevis\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php:393)
+[stacktrace]
+#0 {main}
+"} 
+[2019-08-03 05:42:35] local.ERROR: Illuminate\Routing\Router::loadRoutes(): Failed opening required 'C:\Users\asus\tundevis\routes/web.php' (include_path='C:\Travail\php\PEAR') {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Illuminate\\Routing\\Router::loadRoutes(): Failed opening required 'C:\\Users\\asus\\tundevis\outes/web.php' (include_path='C:\\Travail\\php\\PEAR') at C:\\Users\\asus\\tundevis\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php:393)
+[stacktrace]
+#0 {main}
+"} 
